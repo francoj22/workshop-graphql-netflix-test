@@ -14,6 +14,9 @@ A simple **ReactJS** Netflix homepage clone running on *AstraDB* that leverages 
 
 ![image](./img/ui.png)
 
+## demo 
+-Demo (https://sleepy-albattani-078b57.netlify.app/)
+
 ## 🎯 Objectives
 * Deploy a Netflix clone to production
 * Learn **GraphQL API** and how to use it with a database to create the tables and navigate the data.
